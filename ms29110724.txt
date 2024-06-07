@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "caesoutions.sg",
+  "Id": "5b539e93-2cc6-40eb-9069-82167a0f2895"
+}
